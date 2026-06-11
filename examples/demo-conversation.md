@@ -106,3 +106,7 @@
 | 有钱人学艺术叫理想，没钱人学艺术叫赌博 | Q4 阶层分流 |
 | 先谋生，再谋爱；先站稳，再登高 | Q4 核心价值观 |
 | 选择比努力更重要，但有得选的前提是你足够努力 | Q4 收尾 |
+
+---
+
+[← 返回主 README](../README.md) · [📋 更多示例 →](https://github.com/alchaincyf/zhangxuefeng-skill/tree/main/examples)

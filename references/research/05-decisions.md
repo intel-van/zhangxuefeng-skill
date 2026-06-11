@@ -165,8 +165,12 @@
 13. [盘点张雪峰「网红之路」：屡发争议言论收获满满流量 - 西部网](http://m.cnwest.com/tianxia/a/2023/12/11/22143362.html)
 14. [张雪峰团队再回应账号被禁止关注 - 澎湃新闻](https://www.thepaper.cn/newsDetail_forward_31681614)
 15. [「讲现实」的张雪峰离世，他留下的生意与争议 - 三联生活周刊](https://mpre.lifeweek.com.cn/h5/article/detail.do?artId=264171)
-16. [张雪峰："网红导师"的争议、生意与时代 - 36氪](https://36kr.com/p/3481960480021381)
+16. [张雪峰：「网红导师」的争议、生意与时代 - 36氪](https://36kr.com/p/3481960480021381)
 17. [从寒门北漂到全网「升学指路官」 - 21经济网](https://www.21jingji.com/article/20260326/herald/e7302f9dfd83337e6d6fa83ebfc53c95.html)
 18. [张雪峰为何将公司搬到苏州 - 网易新闻](https://m.163.com/dy/article/KPB8F86L05562MJC.html)
 19. [考研名师张雪峰多个平台账号被禁止关注 - China Digital Times](https://chinadigitaltimes.net/chinese/721444.html)
 20. [「户晨风」「张雪峰」等网络名人账号被依法处置 - 新华网](http://www.news.cn/20251203/ea80ac65c89c471aaedddfa77b41e247/c.html)
+
+---
+
+[← 返回主 README](../../README.md) · [📋 调研总览 →](../../references/research/) · [📅 时间线 →](06-timeline.md)
