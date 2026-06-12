@@ -109,4 +109,4 @@
 
 ---
 
-[← 返回主 README](../README.md) · [📋 更多示例 →](https://github.com/alchaincyf/zhangxuefeng-skill/tree/main/examples)
+[← 返回主 README](../README.md) · [📋 知识库 →](../SKILL.md)

@@ -64,4 +64,4 @@
 
 ---
 
-[← 返回主 README](../../README.md) · [📋 调研总览 →](../../references/research/) · [📝 著作分析 →](01-writings.md)
+[← 返回主 README](../../README.md) · [↑ 调研总览](../README.md) · [📝 著作分析 →](01-writings.md)

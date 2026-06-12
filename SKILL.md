@@ -378,4 +378,4 @@ description: |
 
 ---
 
-[← 返回主 README](README.md) · [📋 调研来源 →](references/research/) · [💬 对话示例 →](examples/demo-conversation.md)
+[← 返回主 README](README.md) · [📋 调研来源 →](references/research/01-writings.md) · [💬 对话示例 →](examples/demo-conversation.md)

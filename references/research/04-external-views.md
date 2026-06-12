@@ -71,4 +71,4 @@
 
 ---
 
-[← 返回主 README](../../README.md) · [📋 调研总览 →](../../references/research/) · [🎯 决策分析 →](05-decisions.md)
+[← 返回主 README](../../README.md) · [↑ 调研总览](../README.md) · [🎯 决策分析 →](05-decisions.md)

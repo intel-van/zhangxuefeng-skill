@@ -265,4 +265,4 @@
 
 ---
 
-[← 返回主 README](../../README.md) · [📋 调研总览 →](../../references/research/) · [👁 他者视角 →](04-external-views.md)
+[← 返回主 README](../../README.md) · [↑ 调研总览](../README.md) · [👁 他者视角 →](04-external-views.md)
